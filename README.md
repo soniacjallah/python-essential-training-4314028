@@ -1,5 +1,5 @@
 # Python Essential Training
-This is the repository Sonia's copy of the LinkedIn Learning course Python Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
+This repository is Sonia's copy of the LinkedIn Learning course Python Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Python Essential Training][lil-thumbnail-url] 
 
